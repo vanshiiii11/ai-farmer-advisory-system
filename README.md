@@ -1,5 +1,5 @@
 
-I-Powered Farming Assistant
+AI-Powered Farming Assistant
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter" />
@@ -165,9 +165,9 @@ MIT License
 
 ###  Developer
 **Aditya Joshi**  
-📧 adityajosi12334@gmail.com <br>
+📧 adityajosi123234@gmail.com <br>
 **Vanshika Motwani**  
-📧 vanshika.23bce10982@vitbhopal.ac.in<br>
+📧 vanshika.23bce10036@vitbhopal.ac.in<br>
 **Soham saoji**  
 📧 soham.23bai10494@vitbhopal.ac.in<br>
 
