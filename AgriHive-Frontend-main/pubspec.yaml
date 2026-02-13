@@ -1,0 +1,102 @@
+name: my_app
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  file_picker: ^8.0.0+1
+  image_picker: ^1.0.4
+  http: ^0.13.6
+  connectivity_plus: ^5.0.2
+  dash_chat_2: ^0.0.19
+  http_parser: ^4.1.2
+  firebase_core: ^2.27.0
+  firebase_auth: ^4.17.8
+  shared_preferences: ^2.2.2
+  geolocator: ^10.1.0
+  intl: ^0.18.1
+  geocoding: ^3.0.0
+  flutter_screenutil: ^5.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1  # ✅ Added for icon generation
+
+flutter_icons:  # ✅ App icon settings
+  android: true
+  ios: true
+  image_path: "assets/images/app_icon.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/app_icon.png
+    - assets/images/background.jpg
+    - assets/images/background3.jpg
+    - assets/images/background4.jpg
+    - assets/images/background5.jpg
+    - assets/images/background6.jpg
+    - assets/images/Background2.jpg
+    - assets/images/path1.png
+    - assets/images/path5.png
+    - assets/images/rice.jpg
+    - assets/images/image1.jpg
+    - assets/images/plantation.jpg
+
+  fonts:
+    - family: lufga
+      fonts:
+        - asset: assets/fonts/lufga/LufgaThin.ttf
+          weight: 100
+        - asset: assets/fonts/lufga/LufgaThinItalic.ttf
+          weight: 100
+          style: italic
+        - asset: assets/fonts/lufga/LufgaExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/lufga/LufgaExtraLightItalic.ttf
+          weight: 200
+          style: italic
+        - asset: assets/fonts/lufga/LufgaLight.ttf
+          weight: 300
+        - asset: assets/fonts/lufga/LufgaLightItalic.ttf
+          weight: 300
+          style: italic
+        - asset: assets/fonts/lufga/LufgaRegular.ttf
+          weight: 400
+        - asset: assets/fonts/lufga/LufgaItalic.ttf
+          weight: 400
+          style: italic
+        - asset: assets/fonts/lufga/LufgaMedium.ttf
+          weight: 500
+        - asset: assets/fonts/lufga/LufgaMediumItalic.ttf
+          weight: 500
+          style: italic
+        - asset: assets/fonts/lufga/LufgaSemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/lufga/LufgaSemiBoldItalic.ttf
+          weight: 600
+          style: italic
+        - asset: assets/fonts/lufga/LufgaBold.ttf
+          weight: 700
+        - asset: assets/fonts/lufga/LufgaBoldItalic.ttf
+          weight: 700
+          style: italic
+        - asset: assets/fonts/lufga/LufgaExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/lufga/LufgaExtraBoldItalic.ttf
+          weight: 800
+          style: italic
+        - asset: assets/fonts/lufga/LufgaBlack.ttf
+          weight: 900
+        - asset: assets/fonts/lufga/LufgaBlackItalic.ttf
+          weight: 900
+          style: italic
