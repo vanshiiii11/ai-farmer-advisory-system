@@ -139,14 +139,6 @@ lib/
 - Android Studio / VS Code
 - Firebase Project
 
-### Run Locally
-```bash
-git clone https://github.com/rahulsiiitm/agrihive.git
-cd agrihive
-flutter pub get
-flutter run
-```
-
 ---
 
 ##  Contributing
@@ -170,4 +162,7 @@ MIT License
 📧 vanshika.23bce10036@vitbhopal.ac.in<br>
 **Soham saoji**  
 📧 soham.23bai10494@vitbhopal.ac.in<br>
+**Mahi prajapati**  
+📧 mahi.23bce10098@vitbhopal.ac.in<br>
+
 
