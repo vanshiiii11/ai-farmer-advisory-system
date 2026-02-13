@@ -1,5 +1,5 @@
 
-# AgriHive – AI-Powered Farming Assistant
+AI-Powered Farming Assistant
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter" />
@@ -141,7 +141,7 @@ lib/
 
 ### Run Locally
 ```bash
-git clone https://github.com/rahulsiiitm/agrihive.git
+git clone https://github.com/vanshiiii11/ai-farmer-advisory-system
 cd agrihive
 flutter pub get
 flutter run
@@ -164,8 +164,9 @@ MIT License
 ---
 
 ###  Developer
-**Rahul Sharma**  
-📧 rahulsharma.hps@gmail.com <br>
-🌐 https://rahul.aishtrex.com/
-
-> *AgriHive is a learning-driven project aimed at building scalable, impactful technology for agriculture.*
+Aditya Joshi
+📧 adityajosi12334@gmail.com
+Vanshika Motwani
+📧 vanshika.23bce10982@vitbhopal.ac.in
+Soham saoji
+📧 soham.23bai10494@vitbhopal.ac.in

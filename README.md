@@ -1,5 +1,5 @@
 
-# AgriHive – AI-Powered Farming Assistant
+I-Powered Farming Assistant
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-Framework-blue?logo=flutter" />
