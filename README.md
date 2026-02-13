@@ -165,7 +165,7 @@ MIT License
 
 ###  Developer
 **Aditya Joshi**  
-📧 adityajosi12334gmail.com <br>
+📧 adityajosi12334@gmail.com <br>
 **Vanshika Motwani**  
 📧 vanshika.23bce10982@vitbhopal.ac.in<br>
 **Soham saoji**  
