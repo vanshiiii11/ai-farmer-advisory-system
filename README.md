@@ -171,6 +171,3 @@ MIT License
 **Soham saoji**  
 📧 soham.23bai10494@vitbhopal.ac.in<br>
 
-🌐 https://rahul.aishtrex.com/
-
-> *AgriHive is a learning-driven project aimed at building scalable, impactful technology for agriculture.*
